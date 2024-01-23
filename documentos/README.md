@@ -1,0 +1,1 @@
+No mesmo diretório, você encontrará as duas documentações do projeto, abrangendo tanto o Sistema Atual quanto o novo sistema. Elas estão identificadas como DocSistemaAtual.md e DocSistemaNovo.md, respectivamente. Para obter informações detalhadas e específicas sobre cada decisão e processo adotado durante o desenvolvimento do projeto, consulte esses arquivos.

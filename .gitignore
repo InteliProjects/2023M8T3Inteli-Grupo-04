@@ -1,0 +1,6 @@
+node_modules/
+.venv
+.env
+.DS_Store
+**/.DS_Store
+distilbert-base-uncased-finetuned-*
